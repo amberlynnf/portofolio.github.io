@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Belajar Coding</title>
+</head>
+<body bgcolor="#c8a2c8">
+<p>hiiiii amber's first webbbb</p>
+</body>
+</html>

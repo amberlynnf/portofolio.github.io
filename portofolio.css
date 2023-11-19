@@ -351,3 +351,26 @@ footer p:nth-child(2){
     color: #867070;
     bottom: 35px;
 }
+/* Media Queries */
+
+
+/* Laptop */
+@media (max-wdith: 1366px;) {
+    html {
+        font-size: 75%;
+    }
+}
+
+/* Tablet */
+@media (max-wdith: 768px;) {
+    html {
+        font-size: 62.5%;
+    }
+}
+
+/* Mobile Phone */
+@media (max-wdith: 450px;) {
+    html {
+        font-size: 55%;
+    }
+}
